@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JaaiDead
 - 👀 I’m interested in codeing
 - 👀 I'm a Ethical Hacker
-- 🌱 I’m currently learning java , python
-- 💞️ I’m looking to collaborate on plugins
+- 🌱 I’m currently learning java , python .
+- 💞️ I’m looking to collaborate on plugins and mods 
 - 📫 How to reach me Discord - Jaai#9049
 
 <!---
