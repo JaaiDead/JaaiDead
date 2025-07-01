@@ -12,7 +12,6 @@ Hey there! I'm JaaiDead — a developer and a student passionate about building 
 - 🌱 Always learning something new
 - 🎮 Modding Minecraft for fun
 
----
 
 ## 🚀 Tech Stack
 
@@ -29,20 +28,18 @@ Hey there! I'm JaaiDead — a developer and a student passionate about building 
 ### [SPlash Ominous](https://github.com/JaaiDead/SplashOminous)
 *A project I'm proud of — check it out!*
 
----
 
 ## 🌐 Connect with Me
 
 - 🌍 [Personal Website]( some link)
 - 💬 Discord: `Jaai.`
 
----
 
 ## ⚡ Fun Facts
 
 - 🛠️ I love coding Minecraft mods and exploring new creative ideas in the game.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaaiDead&show_icons=true&theme=dracula)
 
----
 
 <sub>Inspired by my [current README](). Thanks for stopping by!</sub>
 <!---
