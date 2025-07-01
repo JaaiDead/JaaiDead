@@ -25,7 +25,7 @@ Hey there! I'm JaaiDead — a developer and a student passionate about building 
 
 ## 🌟 Featured Project
 
-### [SPlash Ominous](https://github.com/JaaiDead/SplashOminous)
+### [Splash Ominous](https://github.com/JaaiDead/SplashOminous)
 *A project I'm proud of — check it out!*
 
 
