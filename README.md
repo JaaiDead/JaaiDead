@@ -34,7 +34,6 @@ Hey there! I'm JaaiDead — a developer and a student passionate about building 
 - 🛠️ I love coding Minecraft mods and exploring new creative ideas in the game.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaaiDead&show_icons=true&theme=dracula)
 
-<iframe src="https://github.com/sponsors/JaaiDead/card" title="Sponsor JaaiDead" height="225" width="600" style="border: 0;"></iframe>
 <sub>Inspired by my [current README](). Thanks for stopping by!</sub>
 <!---
 JaaiDead/JaaiDead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
