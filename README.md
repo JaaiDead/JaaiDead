@@ -1,10 +1,10 @@
 
-# 👋 Hi, I'm JaaiDead
+# 👋 Hi, I'm Jaai
 ### 💻 Developer & 🎓 Student
 
 ### 💻  About Me
 
-Hey there! I'm JaaiDead — a developer and a student passionate about building cool stuff with code. When I'm not studying or coding, you'll probably find me playing chess or tinkering with Minecraft mods.
+Hey there! I'm Jaai — a developer and a student passionate about building cool stuff with code. When I'm not studying or coding, you'll probably find me playing chess or tinkering with Minecraft mods.
 
 - 🌱 Always learning something new
 - 🎮 Modding Minecraft for fun
