@@ -1,13 +1,16 @@
-
 # 👋 Hi, I'm Jaai
 ### 💻 Developer & 🎓 Student
 
-### 💻  About Me
+---
+
+### 💻 About Me
 
 Hey there! I'm Jaai — a developer and a student passionate about building cool stuff with code. When I'm not studying or coding, you'll probably find me playing chess or tinkering with Minecraft mods.
 
 - 🌱 Always learning something new
 - 🎮 Modding Minecraft for fun
+
+---
 
 ## 🚀 Tech Stack
 
@@ -19,22 +22,77 @@ Hey there! I'm Jaai — a developer and a student passionate about building cool
 
 ---
 
+## 🛠️ Tools & IDEs
+
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+## 📚 Currently Learning
+
+- TypeScript
+- Next.js
+- Advanced React Patterns
+
+---
+
 ## 🌟 Featured Project
 
 ### [Splash Ominous](https://github.com/JaaiDead/SplashOminous)
 *A project I'm proud of — check it out!*
 
+---
+
+## 🏆 GitHub Achievements
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JaaiDead&theme=dracula&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaaiDead&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaaiDead&layout=compact&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JaaiDead&theme=dracula)
+
+---
+
 ## 🌐 Connect with Me
 
-- 🌍 [Personal Website]( some link)
+- 🌍 [Personal Website](some link)
 - 💬 Discord: `Jaai.`
+- 🐦 [Twitter/X](https://twitter.com/) <!-- Add your handle if you'd like -->
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/) <!-- Add your handle if you'd like -->
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Minecraft modding projects
+- JavaScript/React web apps
+- Fun open-source ideas!
+
+---
 
 ## ⚡ Fun Facts
 
 - 🛠️ I love coding Minecraft mods and exploring new creative ideas in the game.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaaiDead&show_icons=true&theme=dracula)
+- ♟️ Chess enthusiast – challenge me anytime!
+- 🧩 I enjoy solving puzzles and brain teasers.
+
+---
+
+## 💡 Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+---
 
 <sub>Inspired by my [current README](). Thanks for stopping by!</sub>
+
 <!---
 JaaiDead/JaaiDead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
