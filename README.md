@@ -64,17 +64,12 @@ Hey there! I'm Jaai — a developer and a student passionate about building cool
 
 - 🌍 [Personal Website](some link)
 - 💬 Discord: `Jaai.`
-- 🐦 [Twitter/X](https://twitter.com/) <!-- Add your handle if you'd like -->
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/) <!-- Add your handle if you'd like -->
-
 ---
 
 ## 🤝 Open to Collaborate On
-
 - Minecraft modding projects
 - JavaScript/React web apps
 - Fun open-source ideas!
-
 ---
 
 ## ⚡ Fun Facts
@@ -82,7 +77,6 @@ Hey there! I'm Jaai — a developer and a student passionate about building cool
 - 🛠️ I love coding Minecraft mods and exploring new creative ideas in the game.
 - ♟️ Chess enthusiast – challenge me anytime!
 - 🧩 I enjoy solving puzzles and brain teasers.
-
 ---
 
 ## 💡 Quote
