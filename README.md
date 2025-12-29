@@ -8,8 +8,8 @@ A passionate developer and student who builds clean, creative software — espec
 
 ## 🚀 Quick Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaaiDead\&show_icons=true\&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaaiDead\&layout=compact\&theme=dracula)
+![Anurag's GitHub stats](https://stats-73m2c0esw-jaais-projects.vercel.app/api?username=JaaiDead\&show_icons=true\&theme=dracula)
+![Top Langs](https://stats-73m2c0esw-jaais-projects.vercel.app/api/top-langs/?username=JaaiDead\&layout=compact\&theme=dracula)
 
 ---
 
