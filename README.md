@@ -10,7 +10,7 @@ A passionate developer and student who builds clean, creative software — espec
 
 ![Anurag's GitHub stats](https://stats-73m2c0esw-jaais-projects.vercel.app/api?username=JaaiDead\&show_icons=true\&theme=dracula)
 ![Top Langs](https://stats-73m2c0esw-jaais-projects.vercel.app/api/top-langs/?username=JaaiDead\&layout=compact\&theme=dracula)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaaiDead&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## 🛠️ Tech Stack
