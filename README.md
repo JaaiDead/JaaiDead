@@ -2,7 +2,7 @@
 
 ### 💻 Developer & 🎓 Student
 
-A passionate developer and student who builds clean, creative software — especially Minecraft mods and web apps. I love chess, puzzles, and turning ideas into code.
+A passionate developer and student who builds clean, creative software - especially Minecraft mods and web apps. I love chess, puzzles, and turning ideas into code.
 
 ---
 
