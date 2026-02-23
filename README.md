@@ -49,7 +49,7 @@ A creative project I built — modular, well-documented, and a playground for ex
 * Java & JavaScript projects
 * Open-source web apps and playful utilities
 
-If you have an idea or want to collaborate — let’s chat!
+If you have an idea or want to collaborate - let’s chat!
 
 ---
 
@@ -65,12 +65,12 @@ If you have an idea or want to collaborate — let’s chat!
 ## ♟️ Fun Facts
 
 * I mod Minecraft and build small game utilities.
-* Chess enthusiast — always down for a challenge.
+* Chess enthusiast - always down for a challenge.
 * I enjoy puzzles and creative programming problems.
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ---
 
