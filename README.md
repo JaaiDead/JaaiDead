@@ -99,18 +99,6 @@ Open issues, PRs, and contributions are very welcome.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JaaiDead&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=7F77DD&icon_color=1D9E75&text_color=e8e6e0" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaiDead&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=7F77DD&text_color=e8e6e0" />
-
-</div>
-
----
-
 ## Beyond the Code
 
 ```
@@ -137,10 +125,10 @@ Open issues, PRs, and contributions are very welcome.
 <div align="center">
 
 *"Code is like humor. When you have to explain it, it's bad."*
-&nbsp;— Cory House
+&nbsp; - Cory House
 
 <br/>
 
-Made with ♥ and too many tabs open.
+Made with ❤️ and too many tabs open.
 
 </div>
