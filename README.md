@@ -99,17 +99,6 @@ Open issues, PRs, and contributions are very welcome.
 
 ---
 
-## Beyond the Code
-
-```
-♟  Chess          — always up for a match
-🧩  Puzzles        — the harder the better
-⛏  Minecraft mods — building things in worlds, virtual and not
-💡  Creative code  — if it's interesting, I'll figure it out
-```
-
----
-
 ## Connect
 
 <div align="center">
